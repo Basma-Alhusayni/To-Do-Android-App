@@ -77,9 +77,7 @@ res/
 
 - 🗓️ Add due dates and reminders  
 - 🔔 Task notification support  
-- ☁️ Cloud sync with Firebase  
 - 🌓 Dark mode  
-- 🧹 Swipe to delete, drag and reorder tasks  
 - 🧠 Add categories or tags for better task organization
 
 ---
