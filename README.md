@@ -1,6 +1,6 @@
 # ✅ To-Do List Android App
 
-A clean, intuitive, and fully functional to-do list application for Android that helps you organize your tasks efficiently — **no ads, no subscriptions**.
+A clean, intuitive, and fully functional to-do list application for Android that helps you organize your tasks efficiently. **no ads, no subscriptions**.
 
 ---
 
