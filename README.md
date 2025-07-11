@@ -24,7 +24,7 @@ A clean, intuitive, and fully functional to-do list application for Android that
 
 | Main Screen | Search Task | Edit Task |
 |-------------|-------------|-----------|
-| ![Main Screen](screenshots/main_ui.png) | ![Search Task](screenshots/search.png) | ![Edit Task](screenshots/edit.png) |
+| ![Main Screen](screenshots/main-ui.png) | ![Search Task](screenshots/search.png) | ![Edit Task](screenshots/edit.png) |
 
 ---
 
