@@ -20,8 +20,6 @@ A clean, intuitive, and fully functional to-do list application for Android that
 
 ## 📱 Screenshots
 
-> Place your actual app screenshots in a `screenshots/` folder and update paths accordingly
-
 | Main Screen | Search Task | Edit Task |
 |-------------|-------------|-----------|
 | ![Main Screen](screenshots/main-ui.png) | ![Search Task](screenshots/search.png) | ![Edit Task](screenshots/edit.png) |
